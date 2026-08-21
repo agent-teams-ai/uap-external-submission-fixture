@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "submission-e2e",
+  "version": "1.0.0",
+  "description": "Verifies a disposable contributor submission flow and merely returns a short confirmation when explicitly invoked.",
+  "author": {
+    "name": "agent-teams-ai",
+    "url": "https://github.com/agent-teams-ai"
+  },
+  "homepage": "https://github.com/agent-teams-ai/uap-external-submission-fixture",
+  "repository": "https://github.com/agent-teams-ai/uap-external-submission-fixture",
+  "license": "Apache-2.0"
+}
